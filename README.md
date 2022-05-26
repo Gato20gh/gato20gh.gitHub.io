@@ -1,2 +1,2 @@
-# gato20gh.gitHub.io
+# gato20gh.github.io
 print (67)
